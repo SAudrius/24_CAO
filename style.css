@@ -8,9 +8,9 @@ h5 {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
 }
-.h5-last::after {
+/* .h5-last::after {
   content: " - Current";
-}
+} */
 
 input[type="range"]::-webkit-slider-thumb {
   /* Webkit browsers - Chrome, Safari */
